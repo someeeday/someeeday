@@ -1,14 +1,14 @@
 # Hi, I'm Ivan  
 
-I'm a developer, security researcher, and someone who enjoys digging into complex systems. I love automating processes, analyzing logs, and uncovering hidden patterns.  
+I'm a backend developer and cybersecurity enthusiast with a passion for automation, log analysis, and uncovering hidden patterns in data. I enjoy solving complex problems, building secure systems, and continuously learning new technologies.  
 
 ## What I Do  
 
-- Backend development with **FastAPI**, working with **PostgreSQL** and **Redis**.  
-- Exploring cybersecurity, completed an internship at **PT Tech**.  
-- Developing skills in **SOC**, focusing on monitoring, incident analysis, and log investigation.  
-- Interested in game development and modding.  
-- Experimenting with the idea of a virtual state and decentralized systems.  
+- Build backend systems with **FastAPI**, working with **PostgreSQL** and **Redis**.  
+- Explore cybersecurity, with hands-on experience from my **PT Tech** internship.  
+- Develop skills in **SOC**, focusing on security monitoring, incident response, and threat detection.  
+- Experiment with game development and modding as a side interest.  
+- Research decentralized systems and the concept of a virtual state.  
 
 ## Technologies & Tools  
 
@@ -16,18 +16,18 @@ I'm a developer, security researcher, and someone who enjoys digging into comple
 - **Languages:** Python, JavaScript  
 - **Frameworks:** FastAPI, Flask  
 - **Databases:** PostgreSQL, Redis  
-- **DevOps:** Docker, Nginx, VPN networks  
+- **DevOps:** Docker, Nginx, VPN setup  
 
-### Cybersecurity  
-- **Monitoring:** SIEM, ELK Stack, Suricata  
+### Cybersecurity & SOC  
+- **Security Monitoring:** SIEM, ELK Stack, Suricata  
 - **Forensics & Traffic Analysis:** Wireshark, Volatility, IDA Pro  
-- **Pentesting & Vulnerability Testing:** Kali Linux, Metasploit, Burp Suite  
-- **Automation:** Python scripts for log analysis and threat detection  
+- **Pentesting & Vulnerability Assessment:** Kali Linux, Metasploit, Burp Suite  
+- **Automation & Threat Detection:** Python scripting for log analysis  
 
-## How to Reach Me  
+## Get in Touch  
 
-Telegram: [@someeeday](https://t.me/someeeday)  
+📩 Telegram: [@someeeday](https://t.me/someeeday)  
 
 ---
 
-If you have interesting ideas, insights, or just want to chat — feel free to reach out.  
+If you're into cybersecurity, development, or just want to discuss new ideas, feel free to reach out.  

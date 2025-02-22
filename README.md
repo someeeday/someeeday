@@ -1,33 +1,33 @@
-# Привет, меня зовут Ваня
+# Hi, I'm Ivan  
 
-Разработчик, исследователь безопасности и человек, который любит разбираться в сложных вещах. Мне нравится автоматизировать процессы, копаться в логах и находить скрытые закономерности.  
+I'm a developer, security researcher, and someone who enjoys digging into complex systems. I love automating processes, analyzing logs, and uncovering hidden patterns.  
 
-## Чем я занимаюсь  
+## What I Do  
 
-- Разрабатываю серверную часть на **FastAPI**, работаю с **PostgreSQL** и **Redis**.  
-- Изучаю информационную безопасность, проходил стажировку в **PT Tech**.  
-- Развиваюсь в **SOC**, разбираюсь в мониторинге, анализе инцидентов и логах.  
-- Интересуюсь игровой разработкой и созданием модов.  
-- Экспериментирую с идеей виртуального государства и децентрализованных систем.  
+- Backend development with **FastAPI**, working with **PostgreSQL** and **Redis**.  
+- Exploring cybersecurity, completed an internship at **PT Tech**.  
+- Developing skills in **SOC**, focusing on monitoring, incident analysis, and log investigation.  
+- Interested in game development and modding.  
+- Experimenting with the idea of a virtual state and decentralized systems.  
 
-## Технологии и инструменты  
+## Technologies & Tools  
 
-### Разработка и инфраструктура  
-- **Языки:** Python, JavaScript  
-- **Фреймворки:** FastAPI, Flask  
-- **Базы данных:** PostgreSQL, Redis  
-- **DevOps:** Docker, Nginx, VPN-сети  
+### Development & Infrastructure  
+- **Languages:** Python, JavaScript  
+- **Frameworks:** FastAPI, Flask  
+- **Databases:** PostgreSQL, Redis  
+- **DevOps:** Docker, Nginx, VPN networks  
 
-### Информационная безопасность  
-- **Мониторинг:** SIEM, ELK Stack, Suricata  
-- **Форензика и анализ трафика:** Wireshark, Volatility, IDA Pro  
-- **Пентестинг:** Kali Linux, Metasploit, Burp Suite  
-- **Автоматизация:** Python-скрипты для анализа логов и обнаружения угроз  
+### Cybersecurity  
+- **Monitoring:** SIEM, ELK Stack, Suricata  
+- **Forensics & Traffic Analysis:** Wireshark, Volatility, IDA Pro  
+- **Pentesting & Vulnerability Testing:** Kali Linux, Metasploit, Burp Suite  
+- **Automation:** Python scripts for log analysis and threat detection  
 
-## Как со мной связаться  
+## How to Reach Me  
 
-Telegram: [@someeeday](https://t.me/someeeday)   
+Telegram: [@someeeday](https://t.me/someeeday)  
 
 ---
 
-Если у тебя есть идеи, мысли или просто хочешь пообщаться — пиши.  
+If you have interesting ideas, insights, or just want to chat — feel free to reach out.  
